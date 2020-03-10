@@ -9,7 +9,7 @@
 <body>
 	<hr/>
 	<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-	<h2>여기는 헤더 영역입니다.</h2>
+	<h2>여기는 푸터 영역입니다.</h2>
 	
 </body>
 </html>
